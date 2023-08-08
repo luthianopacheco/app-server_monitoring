@@ -10,12 +10,14 @@ In addition was made the convertion of API data to better manipulate.
 
 
 
-![Android Emulator - Pixel_2_API_31_5554 08_08_2023 12_15_32](https://github.com/luthianopacheco/app-server_monitoring/assets/131195495/dcb13ae4-9744-4b81-8aa8-5f0c2317cbf7)
+![Android Emulator - Pixel_2_API_31_5554 08_08_2023 12_15_32](https://github.com/luthianopacheco/app-server_monitoring/assets/131195495/d61dc2e5-4829-42dc-a64d-1917841c6d93)
 
-![Android Emulator - Pixel_2_API_31_5554 08_08_2023 12_15_45](https://github.com/luthianopacheco/app-server_monitoring/assets/131195495/c319665d-5a5d-4450-bb59-dafd3990bbbb)
+![Android Emulator - Pixel_2_API_31_5554 08_08_2023 12_15_45](https://github.com/luthianopacheco/app-server_monitoring/assets/131195495/db2eefc7-fc80-4b22-b2d8-e9884c50f1da)
 
-![Android Emulator - Pixel_2_API_31_5554 08_08_2023 12_15_52](https://github.com/luthianopacheco/app-server_monitoring/assets/131195495/a7cafbfe-91ec-47a2-9f70-25a7ba22fbc6)
+![Android Emulator - Pixel_2_API_31_5554 08_08_2023 12_15_52](https://github.com/luthianopacheco/app-server_monitoring/assets/131195495/9ba39de3-499f-47c9-aebe-6d4728c98e0b)
 
-![Android Emulator - Pixel_2_API_31_5554 08_08_2023 12_15_59](https://github.com/luthianopacheco/app-server_monitoring/assets/131195495/63036c01-56da-45da-b373-8c0c9d39da81)
+![Android Emulator - Pixel_2_API_31_5554 08_08_2023 12_15_59](https://github.com/luthianopacheco/app-server_monitoring/assets/131195495/4d930138-499d-460e-954b-10d625e42c20)
+
+
 
 **Criado em base de tela do Pixel 2 API 31 emulado pelo Android Studio.
