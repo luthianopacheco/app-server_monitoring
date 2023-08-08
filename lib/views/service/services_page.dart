@@ -1,4 +1,4 @@
-import 'package:da_ginga/controllers.dart/services_controller.dart';
+import 'package:da_ginga/controllers/services_controller.dart';
 import 'package:da_ginga/model/model_extension/service_model_extension.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';

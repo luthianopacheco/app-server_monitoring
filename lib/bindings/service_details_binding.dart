@@ -1,4 +1,4 @@
-import 'package:da_ginga/controllers.dart/service_details_controller.dart';
+import 'package:da_ginga/controllers/service_details_controller.dart';
 import 'package:get/get.dart';
 
 class ServiceDetailsBinding implements Bindings {

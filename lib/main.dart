@@ -1,7 +1,7 @@
 import 'package:da_ginga/bindings/service_details_binding.dart';
 import 'package:da_ginga/bindings/services_binding.dart';
-import 'package:da_ginga/controllers.dart/service_details_controller.dart';
-import 'package:da_ginga/controllers.dart/services_controller.dart';
+import 'package:da_ginga/controllers/service_details_controller.dart';
+import 'package:da_ginga/controllers/services_controller.dart';
 import 'package:da_ginga/views/navigation_bar/navigation_bar_widget.dart';
 import 'package:da_ginga/views/service/services_page.dart';
 import 'package:da_ginga/views/service_details/service_details_page.dart';
