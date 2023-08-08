@@ -1,16 +1,19 @@
-# da_ginga
+# App Server Monitoring
 
-A new Flutter project.
+Desafio onde foi utilizado Gerenciamento de Estado, Rotas e Gerenciamento de Dependencias com a biblioteca GetX.
+Além disso foi feito conversão de dados da API para melhor manipulação.
 
-## Getting Started
+---------------------------------------------------------------------------------------------------------------------------------------
 
-This project is a starting point for a Flutter application.
+Challenge where was used State Management, Routes and Dependency Management with GetX lib.
+In addition was made the convertion of API data to better manipulate.
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_1691506856](https://github.com/luthianopacheco/app-server_monitoring/assets/131195495/e6fa8f95-c830-4481-a624-5838a439cc21)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot_1691506881](https://github.com/luthianopacheco/app-server_monitoring/assets/131195495/a13409d7-5564-4f0d-b049-2b5b8794deeb)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1691506870](https://github.com/luthianopacheco/app-server_monitoring/assets/131195495/1289a12e-370b-4a3c-a51d-7a28813b7abc)
+
+![Screenshot_1691506888](https://github.com/luthianopacheco/app-server_monitoring/assets/131195495/61663bcb-e705-4655-ac64-902002fe8283)
+
+**Criado em base de tela do Pixel 2 API 31 emulado pelo Android Studio.
